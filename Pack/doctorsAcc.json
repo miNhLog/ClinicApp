@@ -1,0 +1,101 @@
+[
+  {
+    "id": "BS001",
+    "username": "doctor01",
+    "password": "01",
+    "name": "Nguyễn Chí Công",
+    "specialty": "Răng, hàm, mặt",
+    "email": "chicong778@gmail.com",
+    "phone": "0901234561"
+  },
+  {
+    "id": "BS002",
+    "username": "doctor02",
+    "password": "02",
+    "name": "Trần Minh Hoàng",
+    "specialty": "Nội tổng quát",
+    "email": "minhhoang02@gmail.com",
+    "phone": "0901234562"
+  },
+  {
+    "id": "BS003",
+    "username": "doctor03",
+    "password": "03",
+    "name": "Lê Thị Thu",
+    "specialty": "Tai mũi họng",
+    "email": "thule03@gmail.com",
+    "phone": "0901234563"
+  },
+  {
+    "id": "BS004",
+    "username": "doctor04",
+    "password": "04",
+    "name": "Phạm Văn Hùng",
+    "specialty": "Da liễu",
+    "email": "hungpham04@gmail.com",
+    "phone": "0901234564"
+  },
+  {
+    "id": "BS005",
+    "username": "doctor05",
+    "password": "05",
+    "name": "Nguyễn Thị Mai",
+    "specialty": "Da liễu",
+    "email": "mainguyen05@gmail.com",
+    "phone": "0901234565"
+  },
+  {
+    "id": "BS006",
+    "username": "doctor06",
+    "password": "06",
+    "name": "Đỗ Quang Huy",
+    "specialty": "Phụ - Sản",
+    "email": "quanghuy06@gmail.com",
+    "phone": "0901234566"
+  },
+  {
+    "id": "BS007",
+    "username": "doctor07",
+    "password": "07",
+    "name": "Võ Ngọc Bích",
+    "specialty": "Phụ - Sản",
+    "email": "ngocbich07@gmail.com",
+    "phone": "0901234567"
+  },
+  {
+    "id": "BS008",
+    "username": "doctor08",
+    "password": "08",
+    "name": "Hoàng Văn Nam",
+    "specialty": "Nhi",
+    "email": "namhoang08@gmail.com",
+    "phone": "0901234568"
+  },
+  {
+    "id": "BS009",
+    "username": "doctor09",
+    "password": "09",
+    "name": "Bùi Thị Lan",
+    "specialty": "Mắt",
+    "email": "lanbui09@gmail.com",
+    "phone": "0901234569"
+  },
+  {
+    "id": "BS010",
+    "username": "doctor10",
+    "password": "10",
+    "name": "Ngô Hữu Tài",
+    "specialty": "Nhi",
+    "email": "ngotai10@gmail.com",
+    "phone": "0901234570"
+  },
+  {
+    "id": "BS011",
+    "username": "doctor11",
+    "password": "11",
+    "name": "Tạ Minh Châu",
+    "specialty": "Tai mũi họng",
+    "email": "minhchau11@gmail.com",
+    "phone": "0901234571"
+  }
+]

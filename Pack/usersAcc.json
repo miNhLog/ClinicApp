@@ -1,0 +1,32 @@
+[
+  {
+    "username": "admin",
+    "password": "1",
+    "role": "Admin"
+  },
+  {
+    "username": "nongne",
+    "password": "123",
+    "role": "Bệnh nhân"
+  },
+  {
+    "username": "tony",
+    "password": "1",
+    "role": "Bệnh nhân"
+  },
+  {
+    "username": "minhlong68",
+    "password": "lml06082005",
+    "role": "Bệnh nhân"
+  },
+  {
+    "username": "chikhang12",
+    "password": "123",
+    "role": "Bệnh nhân"
+  },
+  {
+    "username": "nguoidung1",
+    "password": "111",
+    "role": "Bệnh nhân"
+  }
+]
